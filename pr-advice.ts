@@ -10,7 +10,7 @@ dotenv.config();
 // Identity Header
 // ==========================================================
 
-console.log("pr-advice: Developed by ISRAEL AKINOLA - 123101172");
+console.log("pr-advice: Developed by ISRAEL AKINOLA");
 console.log(`Run Date: ${new Date().toISOString()}`);
 console.log("--------------------------------------------------------------");
 

@@ -2,7 +2,7 @@
 
 A command-line tool that performs deep, context-aware code reviews of GitHub Pull Requests using an LLM and **tool calling**.
 
-Unlike a basic diff summarizer, PR Lens gives the LLM the ability to fetch full file contents from GitHub on demand — so it can understand *why* a change was made, not just *what* changed.
+Unlike a basic diff summarizer, PR Lens gives the LLM the ability to fetch full file contents from GitHub on demand so it can understand *why* a change was made, not just *what* changed.
 
 ---
 
