@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "tsx pr-advice.ts",
+    "test-tool": "tsx test-tool.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.39.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
+  }
+}
